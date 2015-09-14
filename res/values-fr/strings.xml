@@ -147,4 +147,5 @@ Laissons-le se reposer !"</string>
     <string name="snackbar_desc">&lt;b>SnackBar&lt;/b> est semblable aux notifications Toast d\'Android, inspiré des spécifications de la conception Material de Google</string>
     <string name="third_slide_description">Toutes les contributions sont acceptées ! Grande ou petite, tout n\'est qu\'une histoire de communauté ! Ceci étant dit, cette application sera toujours gratuite, et une fois publiée sur le Google Play Store, les sources seront publiées !</string>
     <string name="third_slide_title">Vous souhaitez contribuer ?</string>
+    <string name="wallpaper_downloading_wait">Veuillez patienter pendant le téléchargement</string>
 </resources>
