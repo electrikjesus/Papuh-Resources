@@ -158,4 +158,5 @@ Voulez-vous l'installer ?"</string>
     <string name="muzei_dialog_title">Oh là là !</string>
     <string name="muzei_download">Installer</string>
     <string name="muzei_no">Non</string>
+    <string name="wallpaper_item_name">"Fond "</string>
 </resources>
