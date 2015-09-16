@@ -3,6 +3,7 @@
 
     <!-- Main -->
     <string name="app_name" translatable="false">Papuh</string>
+    <string name="package_name" translatable="false">com.alexcruz.papuh</string>
     <string name="app_long_name" translatable="false">Papuh Walls v2.0</string>
     <string name="app_dev_name">by Alex Cruz</string>
     <string name="email_address" translatable="false">mazdarider23@gmail.com</string>
@@ -45,6 +46,7 @@
     <string name="second_slide_description">Is that easy! No hassle!</string>
     <string name="third_slide_title">Want to contribute?</string>
     <string name="third_slide_description">All contributions are accepted! Big or small, this is all about the community! That said, this app will always be free of charge and once released in the playstore, open sourced!</string>
+    <string name="fouth_slide_title">ENJOY!!</string>
     <string name="customactivityoncrash_error_activity_error_occurred_explanation">OH SNAP!!\n\nAlex must of fell asleep on\nthe computer again!\nGo ahead let him have it!</string>
     <string name="customactivityoncrash_error_activity_restart_app">Restart Papuh</string>
     <string name="customactivityoncrash_error_activity_error_details">Error Info</string>
@@ -54,7 +56,10 @@
     <string name="settings">Settings</string>
     <string name="wallpaper_downloading_wait">Please wait while we pull the wallpaper</string>
     <string name="pref_light_theme">pref_light_theme</string>
-    <string name="pref_light_theme_title">Enable light theme</string>
+    <string name="pref_light_theme_title">Light theme</string>
+    <string name="enable_light_theme_summary">Enable light theme</string>
+    <string name="disable_light_theme_summary">Disable light theme</string>
+    <string name="wallpaper_item_name">"Wallpaper "</string>
 
     <!---DO NOT TRANSLATE-->
     <!---DO NOT TRANSLATE-->
@@ -85,7 +90,7 @@
     <string name="walls_save_location" translatable="false">/Papuh/Wallpapers/</string>
     <string name="walls_prefix_name" translatable="false">Papuh_</string>
     <string name="artsource_name" translatable="false">Papuh Walls</string>
-    <string name="artsource_desc">Material, Nature, Space, Spiritual You name it we have it!</string>
+    <string name="artsource_desc">Keeping your device looking awesome!</string>
     <string name="muzei_settings">Muzei Settings</string>
     <string name="gplus">GOOGLE+</string>
     <string name="github">SOURCE</string>
@@ -108,11 +113,11 @@
     <string name="download_done">Download completed successfully. Picture is located at </string>
     <string name="json_error_toast">Error while downloading wallpapers info. Try again later.</string>
     <string name="share_wall">Share Wallpaper</string>
-    <string name="partone">My wallpaper for today is </string>
-    <string name="parttwo"> by </string>
-    <string name="partthree"> from </string>
-    <string name="partfour">.\n</string>
-    <string name="partfive">Get it now at </string>
+    <string name="partone">"My wallpaper for today is "</string>
+    <string name="parttwo">" by "</string>
+    <string name="partthree">", found inside the Original Section of "</string>
+    <string name="partfour">!\n\n</string>
+    <string name="partfive">" Get it now at "</string>
     <string name="dismiss">Dismiss</string>
     <string name="close">Close</string>
     <string name="building_request">Building Request</string>
@@ -139,7 +144,7 @@
     <string name="muzeisets_title">Refresh Source every:</string>
     <string name="minutes">Minutes</string>
     <string name="hours">Hours</string>
-    <string name="muzei_info">Note: This Settings affect the update time of the Wallpapers info.</string>
+    <string name="muzei_info">SETUP A MUZEI SOURCE PRIOR TO SAVING ANY OPTIONS!!</string>
     <string name="justshare">Share This</string>
 
     <!--- About Papuh -->
