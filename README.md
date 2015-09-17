@@ -13,5 +13,4 @@ Papuh can be found in the playstore
 </a>
 
 # Contributions
-Contributions can be made either two ways, pull requests or via our gerrit.
-Our gerrit can be found at http://gerrit.dirtyunicorns.com
+Contributions can be made via pull requests or contact me via G+
