@@ -27,6 +27,7 @@
     <string name="section_rom_category">CUSTOM ROMS</string>
     <string name="section_aicp_walls">AICP</string>
     <string name="section_brokenos_walls">BrokenOS</string>
+    <string name="section_candy_walls">Candy ROM</string>
     <string name="section_du_walls">Dirty Unicorns</string>
     <string name="section_eos_walls">EOS</string>
     <string name="section_liquidsmooth_walls">Liquid Smooth</string>
@@ -36,6 +37,7 @@
     <string name="section_rr_walls">Resurrection Remix</string>
     <string name="section_slim_walls">Slim</string>
     <string name="section_tesla_walls">Tesla</string>
+    <string name="section_twistedaosp_walls">Twisted AOSP</string>
     <string name="section_validus_walls">Validus</string>
     <string name="section_aboutapp">About Papuh Walls</string>
     <string name="changelog">Changelog</string>
@@ -73,6 +75,7 @@
     <string name="json_starswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/stars_wallpapers.json</string>
     <string name="json_aicpwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/aicp_wallpapers.json</string>
     <string name="json_brokenoswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/brokenos_wallpapers.json</string>
+    <string name="json_candywalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/candy_wallpapers.json</string>
     <string name="json_duwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/du_wallpapers.json</string>
     <string name="json_eoswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/eos_wallpapers.json</string>
     <string name="json_liquidsmoothwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/liquidsmooth_wallpapers.json</string>
@@ -82,6 +85,7 @@
     <string name="json_rrwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/rr_wallpapers.json</string>
     <string name="json_slimwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/slim_wallpapers.json</string>
     <string name="json_teslawalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/tesla_wallpapers.json</string>
+    <string name="json_twistedaospwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/twistedaosp_wallpapers.json</string>
     <string name="json_validuswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/validus_wallpapers.json</string>
     <!---DO NOT TRANSLATE-->
     <!---DO NOT TRANSLATE-->
