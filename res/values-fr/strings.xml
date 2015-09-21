@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d\'options"</string>
     <string name="abc_action_mode_done">Terminé</string>
@@ -148,8 +146,8 @@ Laissons-le se reposer !"</string>
     <string name="pkapplylauncher_desc">"&lt;b>PkApplyLauncher&lt;/b> est un ensemble d\'outils permettant de faire des lanceurs beaucoup plus simples et organisés. Cette mini bibliothèque a été développée de manière à conserver un code le plus propre possible."</string>
     <string name="pkrequestmanager_desc">"&lt;b>PkRequestManager&lt;/b> est un outil utile, simple, facilitant les requêtes d\'ajout d\'icônes d\'application pour Android."</string>
     <string name="shapeview_desc">"&lt;b>Android Shape Image View&lt;/b> fournit un ensemble de composants d\'affichage des images et une structure de développement pour Android. Il implémente les masques d\'ombrage et bitmap en fonction de l\'affichage des images."</string>
-    <string name="disable_light_theme_summary">Désactiver</string>
-    <string name="enable_light_theme_summary">Activer</string>
+    <string name="disable_light_theme_summary">Désactiver le thème clair</string>
+    <string name="enable_light_theme_summary">Activer  le thème clair</string>
     <string name="fouth_slide_title">APPRÉCIEZ !!!</string>
     <string name="library_smoothprogressbar_libraryDescription">Petite bibliothèque vous permettant de faire une barre de progression harmonieuse. Vous pouvez soit utiliser vos barres de progression en les définissant comme étirable, soit utiliser directement SmoothProgressBarView.</string>
     <string name="muzei_dialog_message">"Papuh prend en charge l\'application Muzei mais il semblerait qu\'elle ne soit pas installée
@@ -166,4 +164,12 @@ Voulez-vous l\'installer ?"</string>
     <string name="materialripple_desc">Masque permettant des effets d\'ondulations pour Android Views</string>
     <string name="section_blur_walls">Flous</string>
     <string name="section_misc_walls">Divers</string>
+    <string name="disable_navbar_tint_summary">Désactiver la barre de navigation teintée</string>
+    <string name="enable_navbar_tint_summary">Activer la barre de navigation teintée</string>
+    <string name="pref_cache">Vider le cache</string>
+    <string name="pref_cache_summary">Vider le cache en cas de problème d\'affichage des fonds d\'écran</string>
+    <string name="pref_cache_title">Vider le cache</string>
+    <string name="pref_navbar_tint">Barre de navigation teintée</string>
+    <string name="pref_navbar_tint_title">Barre de navigation teintée (Uniquement Lollipop/M)</string>
+    <string name="theme_settings">Paramètres du thème</string>
 </resources>
